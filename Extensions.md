@@ -12,7 +12,6 @@ Format:
 - Code Snap - adpyke
 - Color Highlight - Sergoo Naumov
 - Create Files & Folders: On The Go - Ritwick Dey
-- Highlight Matching Tag
 - indent-rainbow - oderwat
 - Lines of Code (LOC) - lyzerk
 - Live Share - Microsoft
